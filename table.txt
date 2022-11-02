@@ -1,0 +1,66 @@
+
+
+.table
+
+.table-responsive
+.table-responsive{-sm|-md|-lg|-xl|-xxl}
+
+.table-striped
+.table-hover
+.table-active (tr)
+.table-sm
+.caption-top
+<caption>Topic of table</caption>
+
+-----------------
+Types
+(can use it on TABLE, tr, td level)
+
+table-primary
+table-secondary
+table-success
+table-danger
+table-warning
+table-info
+table-light
+table-dark
+
+table table-primary table-striped table-bordered table-hover
+
+------------------
+Table borders
+
+table table-bordered
+table table-bordered border-primary
+
+table-borderless
+table table-dark table-borderless
+
+-----------------
+Small Table
+
+.table-sm
+Add .table-sm to make any .table more compact by cutting all cell padding in half.
+
+
+-----------------
+Vertical alignment for inline elements
+
+NOTE:-
+thead default bottom align
+tbody inherit from table and top by default
+
+
+
+.align-baseline
+.align-top
+.align-middle
+.align-bottom
+
+.align-text-bottom
+.align-text-top
+
+Block level elements use flexbox properties
+
+
+

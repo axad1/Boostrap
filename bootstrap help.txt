@@ -1,0 +1,10 @@
+padding
+p1 to p5
+
+
+width
+w-25 to w-100
+
+text-color
+text-bg-color
+bg-color
