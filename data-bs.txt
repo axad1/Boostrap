@@ -1,0 +1,15 @@
+data-bs-toggle
+data-bs-show
+data-bs-hide
+data-bs-target = #id
+data-bs-dismiss (used with button)
+data-bs-whatever
+data-bs-backdrop
+
+
+backdrop:
+	boolean or the string 'static'	true	Includes a modal-backdrop element. Alternatively, specify static for a backdrop which doesn't close the modal on click.
+keyboard:
+	boolean	true	Closes the modal when escape key is pressed
+focus:
+	boolean	true	Puts the focus on the modal when initialized.

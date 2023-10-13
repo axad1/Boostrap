@@ -1,0 +1,48 @@
+.text-muted,
+ .text-primary,
+  .text-success,
+   .text-info,
+    .text-warning,
+     .text-danger,
+      .text-secondary,
+       .text-white,
+        .text-dark,
+         .text-body (default body color/often black) and .text-light:
+      i.e  text-bg-color
+
+bg-primary,
+ .bg-success,
+  .bg-info,
+   .bg-warning,
+    .bg-danger,
+     .bg-secondary,
+      .bg-dark,
+       .bg-light
+
+
+
+
+.text-primary
+.text-primary-emphasis
+.text-secondary
+.text-secondary-emphasis
+.text-success
+.text-success-emphasis
+.text-danger
+.text-danger-emphasis
+.text-warning
+.text-warning-emphasis
+.text-info
+.text-info-emphasis
+.text-light
+.text-light-emphasis
+.text-dark
+.text-dark-emphasis
+.text-body
+.text-body-emphasis
+.text-body-secondary
+.text-body-tertiary
+.text-black
+.text-white
+.text-black-50
+.text-white-50

@@ -1,0 +1,81 @@
+Text alignment
+
+text-start
+text-center
+text-end
+
+text-sm-end
+text-md-end
+text-lg-end
+text-xl-end
+text-xxl-end
+
+---------------
+
+Font size 
+fs-1
+fs-2
+fs-3
+fs-4
+fs-5
+fs-6
+
+---------------
+
+Font weight and italics
+
+fw-bold
+fw-bolder
+fw-semibold
+fw-medium
+fw-normal
+fw-light
+fw-lighter
+fst-italic //Italic text
+fst-normal //Text with normal font style
+
+---------------
+
+Line height
+
+lh-1
+lh-sm
+lh-base
+lh-lg
+
+---------------
+
+Monospace
+
+font-monospace
+
+text-body-secondary
+
+---------------
+
+Text decoration 
+
+text-decoration-underline
+text-decoration-line-through
+text-decoration-none
+
+---------------
+
+Text transform
+
+text-lowercase
+text-uppercase
+text-capitalize
+
+---------------
+
+Word break
+
+text-break
+
+---------------
+
+Text wrapping and overflow
+
+text-wrap
+text-nowrap

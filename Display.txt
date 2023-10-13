@@ -1,0 +1,15 @@
+.d-{value} for xs
+.d-{breakpoint}-{value} for sm, md, lg, xl, and xxl.
+Where value is one of:
+
+none
+inline
+inline-block
+block
+grid
+inline-grid
+table
+table-cell
+table-row
+flex
+inline-flex
